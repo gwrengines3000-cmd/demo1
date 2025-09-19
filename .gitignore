@@ -1,13 +1,2 @@
 
-# Ignore these folders (and their contents)
-build/
-dist/
-
-# Ignore these files
-secrets.txt
-config.json
-
-# Ignore files with these extensions
-*.tmp
-*.log
-
+secrets.txt 
