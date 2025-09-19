@@ -1,14 +1,16 @@
 
-# Demo Repository
+# Demo1
 
-🚀 This is a demo repository for the Version Control Essentials course.
+A brief description of your project. 
 
-🧠 README files are used to provide information about the project, such as how to install it, how to use it, and how to contribute to it.
+## Installation
 
-🔻 You can use Markdown to format your README file. Markdown is a lightweight markup language that allows you to write formatted text using plain text syntax. You can learn more about Markdown at [https://www.markdownguide.org/](https://www.markdownguide.org/).
+Instructions for installing the project. 
 
-## Test repo for the Version Control Essentials course.
+## Usage
 
-🌍 Hello World! --- IGNORE ---
+Instructions for using the project. 
 
-This is the change I wanted!!!
+## Contributing
+
+Instructions for contributing to the project. 
